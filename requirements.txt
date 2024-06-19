@@ -1,0 +1,10 @@
+﻿streamlit
+pandas
+streamlit_option_menu 
+datetime
+plotly.express
+altair
+matplotlib
+requests
+openpyxl
+xlsxwriter
