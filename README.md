@@ -83,6 +83,10 @@ Para ejecutar esta aplicación en tu máquina local, sigue estos pasos:
     Abre tu navegador y visita http://localhost:8501 para ver y utilizar la aplicación.
 
 
+
+    ![Modo de Uso](gifs/usage.gif)
+
+
 ## Estructura del Proyecto
 
 La aplicación se organiza a través de un menú principal con las siguientes opciones:
