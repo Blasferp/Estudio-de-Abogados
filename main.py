@@ -6,9 +6,9 @@ import openpyxl
 from streamlit_option_menu import option_menu
 from datetime import datetime
 import plotly.express as px
-# import altair as alt
+import altair as alt
 import matplotlib.pyplot as plt
-# import requests
+import requests
 from PIL import Image
 from io import BytesIO
 from datetime import datetime
