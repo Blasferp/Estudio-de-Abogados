@@ -117,7 +117,13 @@ Muestra los procesos que están próximos a vencerse.
 
 **8. Escritos:**
 
-- Los usuarios pueden subir escritos para ser modificados y gestionados.
+- Los usuarios pueden subir escritos para ser modificados y 
+gestionados.
+
+![Menú Principal](Menu.PNG)
+![Juicios](Juicios.PNG)
+![Procesos](Procesos.PNG)
+
 
 ## Archivos Principales
 
