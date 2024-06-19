@@ -10,7 +10,8 @@
 3. [Modo de uso](#modo-de-uso)
 4. [Estructura del Proyecto](#estructura-del-proyecto)
 5. [Notas](#notas)
-6. [Archivos Principales](#Archivos-Principales)
+6. [Imagenes](#images)
+6. [Archivos Principales](#archivos-principales)
 7. [Contacto](#contacto)
 8. [Tecnologías utilizadas](#tecnolog%C3%ADas-utilizadas)
 
@@ -123,6 +124,9 @@ Muestra los procesos que están próximos a vencerse.
 
 - Los usuarios pueden subir escritos para ser modificados y 
 gestionados.
+
+
+## Imagenes
 
 ![Menú Principal](Menu.PNG)
 ![Juicios](Juicios.PNG)
