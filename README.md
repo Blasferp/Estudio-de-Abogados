@@ -15,7 +15,7 @@
 7. [Contacto](#contacto)
 8. [Tecnologías utilizadas](#tecnolog%C3%ADas-utilizadas)
 
-Este proyecto consiste en una aplicación desarrollada con Streamlit que facilita la gestión integral de un estudio jurídico. La aplicación permite a los usuarios agregar, visualizar y gestionar datos relacionados con juicios, procesos, clientes y abogados. Además, proporciona funcionalidades para mantener un control de los vencimientos de los procesos y emitir avisos pertinentes.
+Este proyecto consiste en una aplicación desarrollada con Python, Pandas y Streamlit que facilita la gestión integral de un estudio jurídico. La aplicación permite a los usuarios agregar, visualizar y gestionar datos relacionados con juicios, procesos, clientes y abogados. Además, proporciona funcionalidades para mantener un control de los vencimientos de los procesos y emitir avisos pertinentes.
 
 ## Funcionalidades Principales
 
