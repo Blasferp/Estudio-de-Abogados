@@ -9,11 +9,11 @@
 2. [Requisitos](#requisitos)
 3. [Modo de uso](#modo-de-uso)
 4. [Estructura del Proyecto](#estructura-del-proyecto)
-5. [Notas](#notas)
-6. [Imagenes](#images)
+5. [Imagenes](#images)
 6. [Archivos Principales](#archivos-principales)
-7. [Contacto](#contacto)
-8. [Tecnologías utilizadas](#tecnolog%C3%ADas-utilizadas)
+7. [Notas](#notas)
+8. [Contacto](#contacto)
+9. [Tecnologías utilizadas](#tecnolog%C3%ADas-utilizadas)
 
 Este proyecto consiste en una aplicación desarrollada con Python, Pandas y Streamlit que facilita la gestión integral de un estudio jurídico. La aplicación permite a los usuarios agregar, visualizar y gestionar datos relacionados con juicios, procesos, clientes y abogados. Además, proporciona funcionalidades para mantener un control de los vencimientos de los procesos y emitir avisos pertinentes.
 
