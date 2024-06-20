@@ -85,7 +85,7 @@ Para ejecutar esta aplicación en tu máquina local, sigue estos pasos:
 
 
 
-    ![Modo de Uso](gifs/usage.gif)
+    ![Modo de Uso](giphy (1).mp4)
 
 
 ## Estructura del Proyecto
