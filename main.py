@@ -84,7 +84,7 @@ if selected == 'Principal':
 
     Con un diseño intuitivo y fácil de usar, podrás navegar por las diferentes secciones de la aplicación para acceder rápidamente a la información relevante. Además, nuestra plataforma te permite agregar, modificar y eliminar datos con total seguridad y precisión, garantizando una gestión eficaz de tu práctica legal.
 
-    Únete a nosotros en esta experiencia digital diseñada para impulsar tu éxito profesional y ofrecer un servicio excepcional a tus clientes. Descubre cómo nuestra aplicación puede transformar la forma en que gestionas tu estudio de abogados y maximiza el potencial de tu equipo. ¡Estamos aquí para ayudarte a alcanzar tus metas y superar tus expectativas! JAJAJAJAJJAJAJAJA
+    Únete a nosotros en esta experiencia digital diseñada para impulsar tu éxito profesional y ofrecer un servicio excepcional a tus clientes. Descubre cómo nuestra aplicación puede transformar la forma en que gestionas tu estudio de abogados y maximiza el potencial de tu equipo. ¡Estamos aquí para ayudarte a alcanzar tus metas y superar tus expectativas! 
     """
     )
 
